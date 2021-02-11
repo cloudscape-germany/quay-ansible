@@ -3,4 +3,8 @@
 *.orig
 *.bak
 .vscode
+.idea
+
+
+
 
